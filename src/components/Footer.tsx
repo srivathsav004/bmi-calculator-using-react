@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
       </div>
       <div className="mt-2">
         <a 
-          href="https://github.com" 
+          href="https://github.com/srivathsav004/bmi-calculator-using-react.git" 
           target="_blank" 
           rel="noopener noreferrer"
           className="inline-flex items-center text-indigo-500 hover:text-indigo-700 transition-colors"
