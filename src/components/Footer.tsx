@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
         <Heart className="text-pink-500 w-4 h-4" />
         <span>for your health</span>
       </div>
-      <div className="mt-2">
+      {/* <div className="mt-2">
         <a 
           href="https://github.com/srivathsav004/bmi-calculator-using-react.git" 
           target="_blank" 
@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
           <Github className="w-4 h-4 mr-1" />
           <span>View Source</span>
         </a>
-      </div>
+      </div> */}
     </motion.footer>
   );
 };
